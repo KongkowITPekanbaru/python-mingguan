@@ -1,2 +1,2 @@
 all:
-	pip3 install -r requirementst.txt
+	pip3 install -r requirements.txt
